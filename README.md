@@ -1,4 +1,4 @@
-# 🌱 SMART Crop Recommendation System  
+<h1 align='center'>🌱 SMART Crop Recommendation System</h1>  
 
 **Team Name:** CROPTOPOUS  
 **Domain:** Agrotech  
@@ -50,7 +50,8 @@ To tackle this challenge, we developed the SMART Crop Breeding Recommendation Sy
 
 ## 🧑‍💻 Technologies Used
 - **Python** – Core data processing and machine learning  
-- **Pandas, NumPy** – Data manipulation and scientific computing  
+- **Pandas, NumPy** – Data manipulation and scientific computing
+- **Seaborn, Matplotlib** – Data visualisation  
 - **Streamlit** – Interactive web applications  
 - **Scikit-learn** – Machine learning models  
 
